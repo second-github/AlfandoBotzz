@@ -1,0 +1,1 @@
+worker: node . --db 'mongodb+srv://Alfando345:Alfando022@cluster0.orgppg7.mongodb.net/?retryWrites=true&w=majority'
